@@ -46,7 +46,5 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-If you have any questions or suggestions, please open an issue or contact the repository owner.
 
